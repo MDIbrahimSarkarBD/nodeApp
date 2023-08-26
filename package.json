@@ -1,0 +1,26 @@
+{
+  "name": "csdb",
+  "version": "1.0.0",
+  "description": "Computer Specific Directory Browsing . Use technology NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Computer Specific Directory Browsing"
+  },
+  "keywords": [
+    "nodejs",
+    "project",
+    "csdb",
+    "ibrahim-sarkar-bd",
+    "BD",
+    "programmer"
+  ],
+  "author": "MD Ibrahim sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
