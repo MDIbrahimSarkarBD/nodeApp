@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+#data{
+    margin: 0;
+    padding: 0;
+}
+#data li {
+    background-color: bisque;
+    padding: 8px 12px;
+    list-style: none;
+    gap: 8px;
+    display: inline-flex;
+    width: 132px;
+    height: 100px;
+    margin: 12px;
+    text-align: center;
+    align-items: center;
+}
